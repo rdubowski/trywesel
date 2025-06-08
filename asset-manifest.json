@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wesel/static/css/main.737afe0c.css",
+    "main.js": "/wesel/static/js/main.c315fb34.js",
+    "static/js/453.cce0805d.chunk.js": "/wesel/static/js/453.cce0805d.chunk.js",
+    "index.html": "/wesel/index.html",
+    "main.737afe0c.css.map": "/wesel/static/css/main.737afe0c.css.map",
+    "main.c315fb34.js.map": "/wesel/static/js/main.c315fb34.js.map",
+    "453.cce0805d.chunk.js.map": "/wesel/static/js/453.cce0805d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.737afe0c.css",
+    "static/js/main.c315fb34.js"
+  ]
+}
